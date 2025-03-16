@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharath</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath-dev05&label=Profile%20views&color=0e75b6&style=flat" alt="bharath-dev05" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **DSA in Java**
 
-- 👯 I’m looking to collaborate on [open-source project](https://github.com/asyncapi)
+- 👯 I’m looking to collaborate on [open-source projects](https://github.com/asyncapi)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bharath-dev05](https://github.com/Bharath-dev05)
 
 - 📫 How to reach me **bharathsde05@gmail.com**
 
-- ⚡ Fun fact **I code in sleep**
+- ⚡ Fun fact **I even code in my sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
