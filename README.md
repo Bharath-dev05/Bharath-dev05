@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **creating an operating system**
 
-- 🌱 I’m currently learning **DSA in Java**
+- 🌱 I’m currently learning **DSA in C++**
 
 - 👯 I’m looking to collaborate on [open-source projects](https://github.com/asyncapi)
 
