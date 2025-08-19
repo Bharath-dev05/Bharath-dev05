@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Image Processing Model**
 
-- 🌱 I’m currently working on  **DSA**
+- 🌱 Grinding on  **DSA**
 
 - 👯 I’m looking to collaborate on [open-source projects](https://github.com/asyncapi)
 
