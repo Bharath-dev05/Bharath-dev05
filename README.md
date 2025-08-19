@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath-dev05&label=Profile%20views&color=0e75b6&style=flat" alt="bharath-dev05" /> </p>
 
-- 🔭 I’m currently working on **creating an operating system**
+- 🔭 I’m currently working on **Image Processing Model**
 
 - 🌱 I’m currently working on  **DSA**
 
