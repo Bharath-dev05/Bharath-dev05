@@ -37,7 +37,7 @@
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=316192)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=316192)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=316192)
-
+          
 
 <hr>
 <div align="center">
@@ -51,7 +51,4 @@
 <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bharath-dev05&theme=highcontrast&hide_border=false" />
 
 </div><br>
-
-<hr>
-
 
