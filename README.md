@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Bharath</h1>
-<h3 align="center">A passionate web developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath-dev05&label=Profile%20views&color=0e75b6&style=flat" alt="bharath-dev05" /> </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+ <b><p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath-dev05&label=Profile%20views&color=0e75b6&style=flat" alt="bharath-dev05" /> </p></b>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=20&duration=3000&pause=2000&lines=Hi+there!!!+I'm+Bharath">
+  </a>
+</h1>
 
 - 🔭 I’m currently working on **Image Processing Model**
 
@@ -13,6 +16,7 @@
 
 - 📫 How to reach me **bharathsde05@gmail.com**
 <hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/bharath78697246?t=2lcq6udrzrlbijraxprcyq&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/bharath78697246?t=2lcq6udrzrlbijraxprcyq&s=09" height="30" width="40" /></a>
@@ -39,7 +43,8 @@
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=316192)
           
 
-<hr>
+ <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="53" height="53" align="center" />GitHub Stats </h2>
+
 <div align="center">
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bharath-dev05&theme=highcontrast" />
@@ -51,4 +56,5 @@
 <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bharath-dev05&theme=highcontrast&hide_border=false" />
 
 </div><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 
